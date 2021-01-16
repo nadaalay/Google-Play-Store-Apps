@@ -24,5 +24,5 @@ The dataset contains 13 features:
 ## File Descriptions 
 
 - `googleplaystore.csv`: the dataset file.
-- `Google_Play_Store_Apps.ipynb`: contains the code of data exploration, preparation and modeling. 
+- `Google_Play_Store_Apps.ipynb`: contains the code of data exploration, preparation and modeling.
 
